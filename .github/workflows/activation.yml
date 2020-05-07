@@ -1,6 +1,6 @@
 name: Unity - Activation
 env:
-  UNITY_VERSION: 2019.2.21f1
+  UNITY_VERSION: 2019.3.7f1
 
 # Controls when the action will run. Triggers the workflow on push or pull request events but only for the master branch
 on: [ push ]
